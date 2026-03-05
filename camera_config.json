@@ -1,0 +1,14 @@
+{
+    "cameras": [
+        {
+            "camera_id": "cam_1_1771861138",
+            "name": "cam1",
+            "source": "http://10.19.192.129:8080/video",
+            "source_type": "RTSP Stream",
+            "enabled": true,
+            "created_at": "2026-02-23T21:08:58.922217",
+            "last_used": "2026-02-23T21:08:58.922217"
+        }
+    ],
+    "last_updated": "2026-02-23T21:08:58.922217"
+}
